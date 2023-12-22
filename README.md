@@ -1,3 +1,5 @@
+# projeto simples para o aprendizado básico de GraphQL
+
 - Quais problemas o GraphQL resolve ?
   - Overfetching(buscar informações demais, fazer mais fetching do que o necesssário).
   - Underfteching(buscar dados de menos)
