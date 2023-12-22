@@ -14,7 +14,7 @@ export class UserResolver {
     return this.data;
   }
 
-  @Mutation(() => User)
+  @Mutation(() => User) 
   async createUser(
     @Arg('name') name:string
   ) {
